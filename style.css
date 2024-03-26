@@ -1,0 +1,54 @@
+body{
+  padding: 0;
+  margin:0;
+}
+
+
+div.main{
+  background :url("bg.png");
+  background-size: cover;
+  padding-top:20px ;
+  padding-bottom:px ;
+  padding-left:50px ;
+ 
+}
+.logo{
+  padding-bottom:20px;
+  font-size:50px;
+  padding-left:20px;
+  color:red;
+  
+}
+.list{
+  
+  text-align: end;
+  padding-bottom:50px;
+}
+#text{
+  border-radius:30px; 
+  background:pink;
+  margin-left:10px;
+ margin-right:10px;
+}
+.web{
+  padding-top:100px;
+  padding-top:10px;
+  padding-bottom:50px; 
+  color: white;
+  font-size:20px;
+}
+.tax{
+  
+}
+.btn{
+  color :red;
+}
+#btn2{
+  margin-top: 30px;
+  margin-left:170px;
+  margin-bottom:20px;
+  background: darkblue;
+ color :gray;
+ border-radius:20px ;
+ font-size:50px;
+}
