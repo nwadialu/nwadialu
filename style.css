@@ -29,6 +29,7 @@ div.main{
   background:pink;
   margin-left:10px;
  margin-right:10px;
+ padding: 20px;
 }
 .web{
   padding-top:100px;
@@ -37,7 +38,10 @@ div.main{
   color: white;
   font-size:20px;
 }
-.tax{
+.enzo{
+  border-radius:1000px;
+  display:flex;
+  justify-content:end;
   
 }
 .btn{
